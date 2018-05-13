@@ -125,7 +125,7 @@ h3 {
 
 .first {
     background: url("img/bg-header.png") no-repeat center top / cover;
-    height: 846px;
+    height: 100vh;
     color: #fff;
 }
 
